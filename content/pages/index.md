@@ -10,7 +10,7 @@ sections:
       Course**. This is the first time I'm hearing **Jamstack**, so I am still
       learning. Maybe in the future this project will become real and useful.
     actions:
-      - label: Let's talk
+      - label: GO TO THE REAL SITE
         url: /contact
         style: button
   - section_id: latest-projects
